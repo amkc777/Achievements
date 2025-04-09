@@ -15,3 +15,4 @@ Certifications is a repository where I keep a record of my professional achievem
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/A7M9ERS299NC)
 - [Academic Process Mining Fundamentals](https://www.credly.com/badges/b928cd72-bb86-4b86-aa2f-4688eb79d14a?source=linked_in_profile)
 - [Process Mining - From Theory to Execution](https://www.credly.com/badges/75ec09ac-555d-48ce-9270-283fbb622efe?source=linked_in_profile)
+- [AWS Educate Introduction to Generative AI](https://www.credly.com/badges/5e9f8e4d-5d46-47a0-8af9-8860bca540f6)
